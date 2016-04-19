@@ -57,6 +57,7 @@ node_modules/
 # Bower specific #
 ##################
 bower_components/
+public/libs/
 
 
 # Sublime specific #
